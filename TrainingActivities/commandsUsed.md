@@ -1,10 +1,10 @@
-
--git clone 
--git init
--mkdir 
--touch commandsUsed.md
--notepad commandsUsed.md
--git add
--git status
--git commit -m
--git push
+- cd g:/Revature Training/Myrepo
+- git clone https://github.com/220425-UiPath/Thomas-Vo.git
+- git init 
+- mkdir "TrainingActivities"
+- touch commandsUsed.md
+- notepad commandsUsed.md
+- git add .
+- git status
+- git commit -m "List of commands"
+- git push
